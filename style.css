@@ -1,0 +1,96 @@
+.principal{
+    background: rgb(171, 171, 61);
+    padding: 1px;
+    font: white 30px arial;
+    text-align: center;
+}
+
+.titulo-principal{
+    background: rgb(121, 121, 244);
+    padding: 1px;
+    font: white 30px arial;
+    text-align: center;
+}
+
+body{
+    background: rgb(249, 249, 91) url(bandeira1.jpeg);
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+p{
+    text-align: justify;
+    color: black;
+}
+
+h2{
+    text-align: justify;
+    color: black;
+}
+h4{
+    text-align: left;
+    color: black;
+}
+
+
+ol{
+    text-align: left;
+    color: black;
+}
+.caixa1{
+    background: white;
+    border: 1px solid silver;
+    padding: 2px;
+    margin: 30px 30px;
+}
+
+.caixa2{
+    background: white;
+    border: 1px solid silver;
+    padding: 2px;
+    margin: 30px 30px;
+}
+.caixa3{
+    background: white;
+    border: 1px solid silver;
+    padding: 2px;
+    margin: 30px 30px;
+}
+
+.caixa-indice{
+    background: rgb(250, 214, 148);
+    border: 1px solid silver;
+    float: right;
+    padding: 2px;
+    margin: 10px 10px;
+    width: 300px;
+    height: 150px;
+
+}
+
+.caixa1 img{
+    border: 1px solid silver;
+    float: left;
+    width: 400px;
+    height: 250px;
+    padding: 2px;
+
+}
+
+.caixa2 img{
+    border: 1px solid silver;
+    float: left;
+    width: 400px;
+    height: 250px;
+    padding: 2px;
+    
+}
+
+.caixa3 img{
+    border: 1px solid silver;
+    float: left;
+    width: 400px;
+    height: 250px;
+    padding: 2px;
+    
+}
